@@ -1,0 +1,9 @@
+C:\Users\Cory\Documents\Visual Studio 2017\Projects\CustomerWebServices\bin\CustomerWebServices.dll.config
+C:\Users\Cory\Documents\Visual Studio 2017\Projects\CustomerWebServices\bin\CustomerWebServices.dll
+C:\Users\Cory\Documents\Visual Studio 2017\Projects\CustomerWebServices\bin\CustomerWebServices.pdb
+C:\Users\Cory\Documents\Visual Studio 2017\Projects\CustomerWebServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Cory\Documents\Visual Studio 2017\Projects\CustomerWebServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Cory\Documents\Visual Studio 2017\Projects\CustomerWebServices\obj\Debug\CustomerWebServices.csprojResolveAssemblyReference.cache
+C:\Users\Cory\Documents\Visual Studio 2017\Projects\CustomerWebServices\obj\Debug\CustomerWebServices.csproj.CoreCompileInputs.cache
+C:\Users\Cory\Documents\Visual Studio 2017\Projects\CustomerWebServices\obj\Debug\CustomerWebServices.dll
+C:\Users\Cory\Documents\Visual Studio 2017\Projects\CustomerWebServices\obj\Debug\CustomerWebServices.pdb
